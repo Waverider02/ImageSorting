@@ -21,16 +21,22 @@
 
 ### 输出：
 ### 1.图像
-1.1 训练集数据展示：Figure1.png
+1.1 训练集数据展示：
 
-1.2 训练中损失：Figure2.png
+![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure1.png)
 
-1.3 训练后模型预测展示：Figure3.png
+1.2 训练中损失：
+
+![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure2.png)
+
+1.3 训练后模型预测展示：
+
+![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure3.png)
 
 ### 2.数据
-2.1 训练损失Loss：data.json ["loss"]
+2.1 训练损失：data.json ["loss"]
 
-2.2 预测准确率ACC：data.json ["acc"]
+2.2 预测准确率：data.json ["acc"]
 
 ### 特别说明：
 
