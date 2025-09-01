@@ -34,9 +34,9 @@
 ![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure3.png)
 
 ### 2.数据
-2.1 训练损失：data.json ["loss"]
+2.1 训练损失：data.json -> key = "loss"
 
-2.2 预测准确率：data.json ["acc"]
+2.2 预测准确率：data.json -> key = "acc"
 
 ### 特别说明：
 
