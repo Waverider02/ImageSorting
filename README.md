@@ -20,15 +20,15 @@
 **python app.py -m CNN**
 
 ### 输出
-1. 训练集数据展示图片
+1. 训练集数据展示
 
 ![image](figure/figure1.png)
 
-2. 训练中损失展示图片
+2. 训练中损失展示
 
 ![image](figure/figure2.png)
 
-3. 训练后模型预测展示图片
+3. 训练后模型预测展示
 
 ![image](figure/figure3.png)
 
