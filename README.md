@@ -20,25 +20,23 @@
 **python app.py -m CNN**
 
 ### 输出
-### 1.图像
-#### 1.1 训练集数据展示
+1. 训练集数据展示图片
 
 ![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure1.png)
 
-#### 1.2 训练中损失
+2. 训练中损失展示图片
 
 ![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure2.png)
 
-#### 1.3 训练后模型预测展示
+3. 训练后模型预测展示图片
 
 ![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure3.png)
 
-### 2.数据
-#### 2.1 训练损失
+4. 训练损失数据保存
 
 data.json -> key = "loss"
 
-#### 2.2 预测准确率
+5. 预测准确率数据保存
 
 data.json -> key = "acc"
 
