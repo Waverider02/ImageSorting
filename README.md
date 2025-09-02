@@ -1,35 +1,35 @@
 # 基于Pytorch的简单神经网络调用程序
 
 
-### 使用说明：
+### 使用说明
 
 **pip install -r requirements.txt**
 
-### 功能：
+### 功能
 实现简单的手写数字识别，准确率约为95%
 
-### 可执行文件：
+### 可执行文件
 
 **app.py**
 
-### 控制台运行：
+### 控制台运行
 1. 使用全连接神经网络运行：
 **python app.py -m Net**
 
 2. 使用卷积神经网络运行：
 **python app.py -m CNN**
 
-### 输出：
+### 输出
 ### 1.图像
-#### 1.1 训练集数据展示：
+#### 1.1 训练集数据展示
 
 ![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure1.png)
 
-#### 1.2 训练中损失：
+#### 1.2 训练中损失
 
 ![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure2.png)
 
-#### 1.3 训练后模型预测展示：
+#### 1.3 训练后模型预测展示
 
 ![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure3.png)
 
@@ -38,7 +38,7 @@
 
 #### 2.2 预测准确率：data.json -> key = "acc"
 
-### 特别说明：
+### 特别说明
 
 1. 程序中的网络结构与网络参数未经过优化,使用前请自行调优。
 
