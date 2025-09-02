@@ -22,15 +22,15 @@
 ### 输出
 1. 训练集数据展示图片
 
-![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure1.png)
+![image](figure/figure1.png)
 
 2. 训练中损失展示图片
 
-![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure2.png)
+![image](figure/figure2.png)
 
 3. 训练后模型预测展示图片
 
-![image](https://github.com/Waverider02/ImageSorting/blob/main/figure/figure3.png)
+![image](figure/figure3.png)
 
 4. 训练损失数据保存
 
