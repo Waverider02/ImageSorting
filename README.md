@@ -34,11 +34,11 @@
 
 4. 训练损失数据保存
 
-  | data.json -> key = "loss"
+  data.json -> key = "loss"
 
 5. 预测准确率数据保存
 
-  | data.json -> key = "acc"
+  data.json -> key = "acc"
 
 ___
 
